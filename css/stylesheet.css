@@ -13,17 +13,17 @@ a {
 }
 
 #searchBar {
-    width: 40vh;
-    height: 5vh;
+    width: 70vw;
+    height: 30px;
     position: fixed;
     transform: translate(-50%, -50%);
     top: 40%;
     left: 50%;
     border: #bbb;
-    border-radius: 10vh;
+    border-radius: 50px;
     border-width: 3px;
     border-style: solid;
-    padding: 3vh;
+    padding: 20px;
     color: inherit;
     font-size: 24px;
     font-family: inherit;
@@ -31,7 +31,7 @@ a {
 }
 
 #searchSubmit {
-    height: 10vh;
+    height: 70px;
     position: fixed;
     left: 73%;
     top: 40%;
